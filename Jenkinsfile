@@ -29,7 +29,7 @@ pipeline {
     post {
         failure {
             emailext(
-                to: 'raghavendrakm8@gmail.com',
+                to: 'devarampatiabhinash.com',
                 subject: "❌ Build FAILED: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
                 body: """
                 <h2 style='color:red;'>Build Failed!</h2>

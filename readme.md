@@ -7,7 +7,7 @@ This project demonstrates a **CI/CD pipeline** for a **Go web application** usin
 ##  Project Overview
 - Language: **Go**
 - CI/CD Tool: **Jenkins**
-- Repository: [GitHub - Go Web App](https://github.com/abhinashrd/Email-notification)
+- Repository: [GitHub - Go Web App](https://github.com/mikkilybhuvan/emailnotification)
 - Features:
   - Automatic build triggers from GitHub commits
   - Email notifications on success/failure
